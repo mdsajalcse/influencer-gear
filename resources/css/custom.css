@@ -1,0 +1,16 @@
+.first-camera{
+
+    margin-left: 160px;
+    margin-top: 160px;
+    position: relative;
+
+}
+.second-camera{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top:0px;
+  margin-top: 130px;
+  margin-left: 1050px;
+
+}
